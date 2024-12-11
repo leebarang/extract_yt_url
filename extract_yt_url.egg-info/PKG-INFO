@@ -4,9 +4,14 @@ Version: 0.0.1
 Summary: A training package
 Home-page: https://github.com/leebarang/extract_yt_url
 Author: leebarang
-Classifier: Programming Language :: Python :: 3.12.1
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
 Classifier: License :: OSI Approved :: MIT License
-Classifier: Operating System :: Windows 11 64bit
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 
@@ -34,7 +39,7 @@ print(list1)
 ```
 
 ## 참고 자료
-
+https://packaging.python.org/en/latest/tutorials/packaging-projects/#uploading-your-project-to-pypi   
 https://github.com/joetats/youtube_search   
 (MIT License - Copyright (c) 2019 joe tats)   
 https://wikidocs.net/197255   
