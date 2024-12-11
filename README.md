@@ -22,7 +22,7 @@ print(list1)
 ```
 
 ## 참고 자료
-
+https://packaging.python.org/en/latest/tutorials/packaging-projects/#uploading-your-project-to-pypi   
 https://github.com/joetats/youtube_search   
 (MIT License - Copyright (c) 2019 joe tats)   
 https://wikidocs.net/197255   
