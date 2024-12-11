@@ -13,9 +13,14 @@ setuptools.setup(
     url="https://github.com/leebarang/extract_yt_url",
     packages=setuptools.find_packages(),
     classifiers=[
+        'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
         "Programming Language :: Python :: 3.12.1",
         "License :: OSI Approved :: MIT License",
-        "Operating System :: Windows 11 64bit",
     ],
     python_requires='>=3.6',
 )
