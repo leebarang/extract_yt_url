@@ -4,7 +4,7 @@ with open("README.md", "r", encoding='UTF-8') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="extract_yt_url", # Replace with your own username
+    name="extract_yt_url",
     version="0.0.1",
     author="leebarang", # author_email="xxx@xxx.com",
     description="A training package",
